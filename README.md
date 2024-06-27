@@ -1,6 +1,6 @@
 # Node.js Kafka Example
 
-This is the example repository for my [blog post](https://www.sohamkamani.com/nodejs/working-with-kafka/) on working with Kafka with Node.js.
+
 
 To run the example:
 
@@ -11,4 +11,4 @@ To run the example:
 1. Run Producer `node produce.js`
 1. Run group describe `node group_describe.js`
 
-> You can see how to install and run a Kafka cluster in my [other tutorial](https://www.sohamkamani.com/blog/2017/11/22/how-to-install-and-run-kafka/)
+
